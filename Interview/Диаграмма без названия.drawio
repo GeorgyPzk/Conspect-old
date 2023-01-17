@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T19:05:30.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="NgXGBIZUUbVpDg6cX0w-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T19:35:52.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="fbnCM81gjN2L2-h271vq" type="github">
   <diagram id="i5wcQm3Cx1ou-XQ_LSwS" name="Страница 1">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,8 +114,16 @@
         <mxCell id="zcxpN0mi2VIVxU4wajkE-44" value="Data bases for servise&amp;nbsp;&lt;br&gt;prod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="478.13" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zcxpN0mi2VIVxU4wajkE-46" value="infrastructure pipline with ansible to Denloy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zcxpN0mi2VIVxU4wajkE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcxpN0mi2VIVxU4wajkE-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcxpN0mi2VIVxU4wajkE-46" value="infrastructure pipline with ansible to Deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1070" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcxpN0mi2VIVxU4wajkE-48" value="- create test/dev/prod cluster and create and preconfigure basic service&amp;nbsp;&lt;br&gt;- data bases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1070" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
