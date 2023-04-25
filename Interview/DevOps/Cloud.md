@@ -8,7 +8,7 @@
 
 Сущность(Substance) из RBAC добавляет роли пользователям из RBAC роли непостредственно в ресурсных группах
 
-Security principal - какая то сущность(user, group, service principal, managed identity), котрой(Which) ты можешь выдать права.
+Service principal - какая то сущность(user, group, service principal, managed identity), котрой(Which) ты можешь выдать права.
 
 # IaaS PaaS SaaS (типы сервисов)
 

@@ -1,2 +1,2 @@
-#OS version
+# OS version
 cat /etc/os-release 
